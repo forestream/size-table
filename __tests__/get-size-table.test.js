@@ -51,6 +51,6 @@ describe("getSizeTable", () => {
   });
 
   it('should', () => {
-    expect(true).toBe(True);
+    expect(true).toBe(true);
   });
 });
