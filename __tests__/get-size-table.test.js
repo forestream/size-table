@@ -50,7 +50,7 @@ describe("getSizeTable", () => {
     consoleSpy.mockRestore();
   });
 
-  it('should', () => {
-    expect(true).toBe(true);
+  it('should fail', () => {
+    expect(true).toBe(false);
   });
 });
